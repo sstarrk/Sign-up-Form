@@ -142,3 +142,18 @@ input:focus {
 #logo {
     height: 80%;
 }
+
+button {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    color: white;
+    background-color: var(--button-color);
+    padding: 20px 50px;
+    border: 0px;
+    border-radius: 10px;
+    font-size: 1.2rem;
+}
+
+#login {
+    font-size: 1.2rem;
+}
